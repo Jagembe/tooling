@@ -73,4 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-Checking again to see if this works on 3APR2022 after CHMOD 777.
+Checking for Jenkins
